@@ -53,7 +53,7 @@ The date slicer and year selection allow users to focus on particular reporting 
 
 ## 🖼️ Dashboard Preview
 
-![Hospital Revenue Dashboard](hospital-revenue-dashboard.png)
+<img width="923" height="522" alt="image" src="https://github.com/user-attachments/assets/c1f1415e-faf4-4035-9069-a3e0f46b174e" />
 
 ## 💡 Potential Business Uses
 
@@ -65,15 +65,17 @@ This report can help hospital stakeholders:
 - Explore patterns by visit type and shift.
 - Support financial review and operational planning.
 
-*Insights depend on the accuracy and completeness of the underlying dataset. No specific business conclusions are asserted here because the underlying data and definitions have not been provided.*
+**Note:** This dashboard demonstrates hospital revenue analysis using Power BI. The original dataset is not included in this repository.
 
 ## 🚀 How to Use
 
-1. Download or clone this repository.
-2. Open the `.pbix` file in Power BI Desktop, if included in the repository.
-3. If prompted, update the data source path.
-4. Refresh the data.
-5. Use the date, year, visit type, and shift filters to explore the report.
+1. Clone or download this repository.
+2. Open `Hospital-Revenue-Dashboard.pbix` in Power BI Desktop.
+3. If prompted, configure the data source to point to the original hospital dataset.
+4. Explore the dashboard using the date, year, visit type, and shift filters.
+5. To refresh the report, ensure the original dataset is accessible and the data source is configured correctly.
+
+**Note:** The original dataset is not included in this repository. Some report features, including data refresh, may require access to the original dataset.
 
 ## 📁 Suggested Repository Structure
 
@@ -82,11 +84,7 @@ Hospital-Revenue-Dashboard/
 ├── README.md
 ├── hospital-revenue-dashboard.png
 ├── Hospital-Revenue-Dashboard.pbix
-└── Dataset/
-    └── your-dataset-file
 ```
-
-The `.pbix` and dataset entries above are suggested additions. Include them only if you intend to share those files.
 
 ## 📚 Skills Demonstrated
 
@@ -104,7 +102,7 @@ The `.pbix` and dataset entries above are suggested additions. Include them only
 
 Aspiring Data Engineer | Power BI | SQL | Python | Data Analytics
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/janavi-parmar-45a5b02b0/)
+🔗 Connect with me on LinkedIn: Janavi Parmar(www.linkedin.com/in/janavi-parmar-45a5b02b0)
 
 ---
 
